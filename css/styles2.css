@@ -1,0 +1,41 @@
+body {
+
+  background-image: url("../img/glitter.jpeg");
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  border: 10px solid black;
+  font-family:fantasy;
+  font-size: 75px;
+}
+
+p {
+  background: gold;
+  text-align: center;
+  color: red;
+  font-size: 40px;
+  text-decoration: none;
+  padding-right: 15px;
+}
+
+ #sandbox {
+  background-color: #e8d186;
+  width: 500px;
+
+}
+
+img {
+  width: 750px;
+  height: 750px;
+  display: block;
+  margin: 0px auto;
+  border: 5px solid black;
+}
+
+nav {
+  background: gold;
+  color: green;
+  text-decoration: none;
+}
